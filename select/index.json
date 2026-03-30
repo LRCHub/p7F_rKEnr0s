@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Lüg mich an",
+  "base_artist": "Jazeek",
+  "createdAt": "2026-03-30T16:43:37.286524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "Madsen",
+      "has_synced": true,
+      "path": "select/01_Lüg_mich_an_Madsen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "Jazeek",
+      "has_synced": true,
+      "path": "select/02_Lüg_mich_an_Jazeek.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "BRKN",
+      "has_synced": false,
+      "path": "select/03_Lüg_mich_an_BRKN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "Volfi",
+      "has_synced": true,
+      "path": "select/04_Lüg_mich_an_Volfi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lüg Mich An",
+      "artist": "Madsen",
+      "has_synced": false,
+      "path": "select/05_Lüg_Mich_An_Madsen.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "Pietro Lombardi",
+      "has_synced": true,
+      "path": "select/06_Lüg_mich_an_Pietro_Lombardi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "Faso",
+      "has_synced": true,
+      "path": "select/07_Lüg_mich_an_Faso.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "JASCHA",
+      "has_synced": true,
+      "path": "select/08_Lüg_mich_an_JASCHA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bitte lüg mich an",
+      "artist": "Fabian Wegerer",
+      "has_synced": true,
+      "path": "select/09_Bitte_lüg_mich_an_Fabian_Wegerer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bitte Lüg Mich An",
+      "artist": "Fiio",
+      "has_synced": true,
+      "path": "select/10_Bitte_Lüg_Mich_An_Fiio.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "$love, YNG Homeless",
+      "has_synced": true,
+      "path": "select/11_Lüg_mich_an_$love,_YNG_Homeless.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lüg mich an",
+      "artist": "Ambre Vallet",
+      "has_synced": true,
+      "path": "select/12_Lüg_mich_an_Ambre_Vallet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "09 - Lüg Mich An",
+      "artist": "Madsen",
+      "has_synced": true,
+      "path": "select/13_09_-_Lüg_Mich_An_Madsen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lüg mich an (Paused)",
+      "artist": "Jazeek",
+      "has_synced": true,
+      "path": "select/14_Lüg_mich_an_(Paused)_Jazeek.lrc"
+    }
+  ]
+}
